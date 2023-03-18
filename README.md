@@ -1,3 +1,7 @@
+## This is a fictional website built by following The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann on Udemy
+
+---
+
 ## User Stories
 
 1. As a user, I want to serach for recipes, so that I can find new ideas for meals.
