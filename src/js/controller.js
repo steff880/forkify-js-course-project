@@ -54,7 +54,6 @@ const controlSearchResults = async function () {
     // load search results
     await model.loadSearchResults(query);
     // render results
-    // resultsView.render(model.state.search.results);
     resultsView.render(model.getSearchResultsPage());
 
     // Render initial pagination buttons
@@ -100,7 +99,6 @@ const controlAddRecipe = async function (newRecipe) {
   try {
     // Show loading spinner
     addRecipeView.renderSpinner();
-    // console.log(newRecipe);
     // Upload new recipe data
     await model.uploadRecipe(newRecipe);
     console.log(model.state.recipe);
