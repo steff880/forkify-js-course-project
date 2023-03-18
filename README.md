@@ -1,5 +1,7 @@
 ## This is a fictional website built by following The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann on Udemy
 
+### You can visit the live site [here](https://master--forkify-stefan880.netlify.app/)
+
 ---
 
 ## User Stories
